@@ -1,2 +1,2 @@
-# 2Dsprites
+# 2D sprites
 use for free
